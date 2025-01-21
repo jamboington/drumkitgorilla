@@ -8,6 +8,7 @@
   - [BananaModManager](https://github.com/developerpixel0/bananamodmanager), dev
 - Created [MechanicMonke](https://github.com/jamboington/mechanicmonke), a new mod loader for Gorilla Tag
 - I also make games on scratch, I created *Little Planet*
+- Made a Microsoft product activator, [MSActivate](https://github.com/jamboington/activator)
 
 ## Links
 - Twitter: https://twitter.com/@jamboington
