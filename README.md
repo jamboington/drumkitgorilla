@@ -11,6 +11,12 @@
 - I also make games on scratch, I created *Little Planet*
 - Made a Microsoft product activator, [MSActivate](https://github.com/jamboington/activator)
 
+## Specs
+Lenovo ThinkStation P300
+Intel Core i7
+16GB RAM
+256GB SSD, 1TB HHD
+
 ## Links
 - Twitter: https://twitter.com/@jamboington
 - YouTube: https://youtube.com/@jambopcvr
