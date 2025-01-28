@@ -3,7 +3,8 @@
 
 ## Stuff
 - [I made kernel PR #1000](https://github.com/torvalds/linux/pull/1000)
-- Developer for two major Capuchin mod loaders:
+- Owner of the [Capuchin Modding Community Discord Server](https://discord.gg/awVb24kMxw)
+- Developer for both major Capuchin mod loaders:
   - [CapuchinModManager](https://github.com/jamboington/CapuchinModManager), main dev (and creator)
   - [BananaModManager](https://github.com/developerpixel0/bananamodmanager), dev
 - Created [MechanicMonke](https://github.com/jamboington/mechanicmonke), a new mod loader for Gorilla Tag
