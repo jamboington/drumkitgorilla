@@ -1,5 +1,5 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=xzcowman&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xzcowman&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=xzcowman&show_icons=true&theme=tokyonight&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xzcowman&show_icons=true&theme=tokyonight&layout=compact)
 
 ## Stuff
 - [I made kernel PR #1000](https://github.com/torvalds/linux/pull/1000)
